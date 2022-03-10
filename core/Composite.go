@@ -3,8 +3,8 @@ package core
 import (
 	"fmt"
 
-	b3 "github.com/magicsea/behavior3go"
-	. "github.com/magicsea/behavior3go/config"
+	b3 "github.com/walkon/behavior3go"
+	. "github.com/walkon/behavior3go/config"
 )
 
 type IComposite interface {
